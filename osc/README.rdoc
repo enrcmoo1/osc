@@ -25,17 +25,26 @@ The website contains 10 pages and these are as follows:
 - Events
 
 localhost:3000/welcome/index <---- URL for home page
-localhost:3000/welcome/about <---- URL for about us page
-localhost:3000/welcome/social <---- URL for social activities page
-localhost:3000/welcome/faq <---- URL for faq page
-localhost:3000/welcome/contact <---- URL for contact us page
-localhost:3000/welcome/sessions <---- URL for club sessions page
-localhost:3000/welcome/holidays <---- URL for club holidays page
-localhost:3000/welcome/racing <---- URL for racing team page
-localhost:3000/events/ <---- URL for events page *
-localhost:3000/announcements/ <---- URL for announcements page *
 
-* - website pages that contain built in databases
+localhost:3000/welcome/about <---- URL for about us page
+
+localhost:3000/welcome/social <---- URL for social activities page
+
+localhost:3000/welcome/faq <---- URL for faq page
+
+localhost:3000/welcome/contact <---- URL for contact us page
+
+localhost:3000/welcome/sessions <---- URL for club sessions page
+
+localhost:3000/welcome/holidays <---- URL for club holidays page
+
+localhost:3000/welcome/racing <---- URL for racing team page
+
+localhost:3000/events/ <---- URL for events page ()
+
+localhost:3000/announcements/ <---- URL for announcements page ()
+
+() - website pages that contain built in databases
 
 Shown above are the URLs that correspond to each website page.
 
